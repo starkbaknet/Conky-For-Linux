@@ -60,7 +60,7 @@ sudo apt install conky-all
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SSTechInd-Tec/Conky-For-Linux.git
+git clone https://gitlab.com/starkbaknet/Conky-For-Linux.git
 cd Conky-For-Linux
 ```
 
